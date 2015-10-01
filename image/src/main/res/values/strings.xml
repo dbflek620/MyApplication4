@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">선택을 시작하시겠습니까?</string>
+    <string name="text2">좋아하는 안드로이드 버전은?</string>
+</resources>
